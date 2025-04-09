@@ -2,6 +2,7 @@
 import {
   decorateBlock,
   decorateBlocks,
+  createOptimizedPicture as libCreateOptimizedPicture,
   decorateButtons,
   decorateIcons,
   decorateSections,
